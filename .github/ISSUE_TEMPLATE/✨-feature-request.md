@@ -7,7 +7,7 @@ assignees: DemianStudio
 
 ---
 
-***📌만든 기능 성실히 설명하자!!***
+# 📌만든 기능 성실히 설명하자!!
 
 **🚀Is your feature request related to a problem? Please describe.**
 >A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
@@ -18,5 +18,13 @@ assignees: DemianStudio
 **🚀Describe alternatives you've considered**
 >A clear and concise description of any alternative solutions or features you've considered.
 
-**Additional context**
+**🚀Additional context**
 Add any other context or screenshots about the feature request here.
+
+- [ ] 1번
+
+- [ ] 2번
+
+- [ ] 3번
+
+- [ ] 4번
